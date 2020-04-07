@@ -10,6 +10,7 @@ Output:
   ["nat","tan"],
   ["bat"]
 ]
+.
 ***
 
 
