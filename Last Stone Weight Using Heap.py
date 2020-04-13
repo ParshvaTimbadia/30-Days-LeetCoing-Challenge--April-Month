@@ -25,7 +25,7 @@ Note:
 1 <= stones.length <= 30
 1 <= stones[i] <= 1000
 
-
+I have solved this method using min heap.
 ***
 
 
